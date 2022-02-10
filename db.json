@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Boulgou",
+      "surname": "Abdeslam",
+      "birthday": "20/11/96",
+      "address": [
+        {
+          "id": "boumalne dades",
+          "type": "Rue",
+          "rue": "Michel ange",
+          "numero": "174",
+          "ville": "Calais",
+          "code": "62100",
+          "pays": "France",
+          "commentaire": "Haute de France ",
+          "telephone": ""
+        },
+        {
+          "id": "Tinghir",
+          "type": "Rue",
+          "rue": "Pascal",
+          "numero": "14",
+          "ville": "Choisy-Le-Roi",
+          "code": "92200",
+          "pays": "France",
+          "commentaire": "",
+          "telephone": ""
+        }
+      ]
+    }
+  ]
+}
